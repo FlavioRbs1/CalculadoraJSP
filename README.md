@@ -1,3 +1,3 @@
 # Calculadora :calendar:
 
-alterado o readme
+Alterado o readme
